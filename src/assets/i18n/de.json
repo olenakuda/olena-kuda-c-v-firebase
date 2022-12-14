@@ -9,7 +9,7 @@
     "CSS",
     "HTML5",
     "Spring Boot",
-    "Spring Data (JPA NoSQL)",
+    "Spring Data (JPA & NoSQL)",
     "Spring Web",
     "Angular  (basis)",
     "Android (basis)",
@@ -24,7 +24,7 @@
     "JUnit",
     "Mockito",
     "IntelliJ",
-    "Visual Stodio Code",
+    "Visual Studio Code",
     "Jira",
     "Kanban",
     "Microservices architecture (basis)"
@@ -33,13 +33,13 @@
   "JOBS": [
     {
       "employer": "Stiwa AMS GmbH",
-      "years": "Mai 2022 - now",
+      "years": "Mai 2022 - laufend",
       "title": "Softwareentwickler",
       "descriptions": [
         "Umsetzung von Softwarel\u00f6sungen f\u00fcr die automatisierte Serienproduktion",
         "Design, Programmierung und Tests von neuen Produkten und Features",
         "Coaching und Support von den Junior-Kollegen",
-        "Analyse eingehender Softwareanforderungen und Verlegung in User Stories"
+        "Analyse und Verlegung von Softwareanforderungen in User Stories"
       ]
     },
     {
