@@ -1,0 +1,17 @@
+<div class="mainDetails">
+    <div class="quickFade--> profile-picture">
+        <img src="assets/images/profilePicture.jpg" alt="Olena Kuda" />
+    </div>
+    <div class="name">
+        <h1 class="quickFade delayTwo">{{name}}</h1>
+        <h2 class="content quickFade delayThree">{{'jobTitle'|translate}}</h2>
+    </div>
+    <div class="quickFade delayFour contactDetails">
+        <ul>
+            <li *ngFor="let ref of references">
+                {{ref.label}} : <a [href]="ref.href" target="_blank">{{ref.text}}</a>
+            </li>
+        </ul>
+    </div>
+    <div class="clear"></div>
+</div>

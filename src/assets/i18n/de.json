@@ -1,0 +1,112 @@
+{
+    "name": "Olena Kuda",
+    "jobTitle": "Java Entwickler",
+
+    "skillsTitle": "Kenntnisse & F\u00e4higkeiten",
+    "skills": [
+        "Java 11",
+        "Kotlin (basis)",
+        "TypeScript (basis)",
+        "CSS",
+        "HTML5",
+        "Spring Boot",
+        "Spring Data (JPA NoSQL)",
+        "Spring Web",
+        "Angular",
+        "Android (basis)",
+        "IntelliJ",
+        "Visual Stodio Code",
+        "GitHub",
+        "Docker (basis)",
+        "JSON",
+        "REST API",
+        "Lombok",
+        "Maven",
+        "TDD",
+        "JUnit",
+        "Mockito",
+        "Microservices architecture (basis)"
+    ],
+
+    "workExperienceTitle": "Berufliche Laufbahn",
+    "JOBS": [{
+            "employer": "Pensionsversicherungsanstalt",
+            "years": "September 2020 - jetzt",
+            "title": "Softwareentwickler",
+            "descriptions": [
+                "Unterst\u00fctzung und Entwicklung bestehender Anwendungen",
+                "Umsetzung neuer Konzepte",
+                "Entwerfen und Implementieren neue funktionen",
+                "Beheben von Fehlern und Anpassen von L\u00f6sungen an neue Umgebungen",
+                "Code refactoring"
+            ]
+        },
+        {
+            "employer": "Karenz",
+            "years": "2017 - 2019",
+            "title": "",
+            "descriptions": []
+        },
+        {
+            "employer": "Hotel Kaiserin Elisabeth GmbH & Co. KG",
+            "years": "2014 - 2017",
+            "title": "Servicemitarbeiterin",
+            "descriptions": [
+                "Betreuung der G\u00e4ste w\u00e4hrend des Fr\u00fchst\u00fccks und Bar sowie alle damit verbundene Aufgaben",
+                "Die Lagerhaltung und eine angemessene Warenwirtschaft"
+            ]
+        },
+        {
+            "employer": "Karenz",
+            "years": "2009 - 2014",
+            "title": "Teilzeitjob",
+            "descriptions": ["Catering"]
+        },
+        {
+            "employer": "Charkiv LTD Investment Consulting Company `Proconsul`",
+            "years": "2007 - 2009",
+            "title": "Immobilienmarkt-Analytikerin",
+            "descriptions": [
+                "Daten \u00fcber den Immobilienmarkt sammeln und analysieren",
+                "Monatliche und Viertelj\u00e4hrliche Analyseberichte und Prognosen des Daten \u00fcber den Immobilienmarktes"
+            ]
+        },
+        {
+            "employer": "Charkiv Organisation `Union of young entrepreneurs`",
+            "years": "2006 - 2007",
+            "title": "Projektmanagerin",
+            "descriptions": [
+                "Organisation von Seminaren",
+                "Consulting",
+                "Entwicklung von unterschiedlichen Projekten zur Unterst\u00fctzung von Jugendlichen"
+            ]
+        }
+    ],
+
+    "educationTitle": "Ausbildung",
+    "educationalInstitutions": [{
+            "title": "Everyone codes, Wien, \u00d6sterreich",
+            "years": "2019 - 2020",
+            "specialisation": "Programmieren: Java",
+            "degreeDescriptions": [
+                "Java 11, Linux, Git, GitHab, IntelliJ",
+                "Spring Framework"
+            ]
+        },
+        {
+            "title": "Charkiw Nationale Wirtschaftsuniversit\u00e4t",
+            "years": "2005 - 2006",
+            "specialisation": "Wirtschaftskybernetik",
+            "degreeDescriptions": ["Magister, Wirtschaftskybernetik"]
+        },
+        {
+            "title": "Charkiw Nationale Wirtschaftsuniversit\u00e4t",
+            "years": "2001 - 2005",
+            "specialisation": "Wirtschaftskybernetik",
+            "degreeDescriptions": ["Bachelor, Wirtschaftskybernetik"]
+        }
+    ],
+
+    "hobbiesTitle": "Hobbies",
+    "hobbies": ["Laufen", "Brett/Karten Spiele", "Kochen", "Reisen"]
+}

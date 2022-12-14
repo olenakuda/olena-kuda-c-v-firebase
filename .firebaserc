@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "olenakuda-cv": {
+      "hosting": {
+          "olena-kuda-c-v": [
+          "olenakuda-cv"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "olenakuda-cv"
+  }
+}

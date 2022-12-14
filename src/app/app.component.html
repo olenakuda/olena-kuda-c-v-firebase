@@ -1,0 +1,15 @@
+<div class="instaFade cv">
+    <div>
+        <input #selLanguage (click)="translateLanguageTo(selLanguage.value)" type="button" [value]="language" class="languageButton" />
+    </div>
+    <!-- <select #selLang (change)="translateLanguageTo(selLang.value)">
+        <option *ngFor="let language of translate.getLangs()" [value]="language">{{ language }}</option>
+      </select> -->
+    <app-main-details></app-main-details>
+    <div class="quickFade delayFive mainArea">
+        <app-skills [skills]="skillsCurrent"></app-skills>
+        <app-work-experience [jobs]="jobsCurrent"></app-work-experience>
+        <app-education [educationalInstitutions]="educationalInstitutionsCurrent"></app-education>
+        <app-hobbies [hobbies]="hobbiesCurrent"></app-hobbies>
+    </div>
+</div>

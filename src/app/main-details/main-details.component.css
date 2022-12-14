@@ -1,0 +1,67 @@
+.mainDetails {
+    padding: 25px 35px;
+    border-bottom: 2px solid #33adff;
+    background: #ededed;
+}
+
+.profile-picture {
+    width: 12.5%;
+    float: left;
+    margin-right: 30px;
+}
+
+.profile-picture img {
+    float: left;
+    width: 100%;
+    height: auto;
+    -webkit-border-radius: 50px;
+    border-radius: 50px;
+    box-shadow: black 3px 3px 6px;
+}
+
+.name h1 {
+    font-size: 2.5em;
+    font-weight: 700;
+    font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+    margin-bottom: -6px;
+}
+
+.name h2 {
+    font-size: 2em;
+    margin-left: 2px;
+    font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+}
+
+.name {
+    float: left;
+}
+
+.contactDetails {
+    float: right;
+}
+
+.contactDetails ul {
+    list-style-type: none;
+    font-size: 0.9em;
+    margin-top: 2px;
+}
+
+.contactDetails ul li {
+    margin-bottom: 3px;
+    color: #444;
+}
+
+.contactDetails ul li a,
+a[href^=tel] {
+    color: #444;
+    text-decoration: none;
+    -webkit-transition: all .3s ease-in;
+    -moz-transition: all .3s ease-in;
+    -o-transition: all .3s ease-in;
+    -ms-transition: all .3s ease-in;
+    transition: all .3s ease-in;
+}
+
+.contactDetails ul li a:hover {
+    color: #33adff;
+}

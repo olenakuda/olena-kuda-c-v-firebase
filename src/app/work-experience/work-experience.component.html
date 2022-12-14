@@ -1,0 +1,16 @@
+<section>
+    <div class="sectionTitle">
+        <h1>{{'workExperienceTitle' | translate}}</h1>
+    </div>
+    <div class="sectionContent">
+        <article *ngFor="let job of jobs">
+            <h2>{{job.employer}}</h2>
+            <h2 class="subDetails">{{job.title}}</h2>
+            <p class="subDetails">{{job.years}}</p>
+            <ng-container *ngIf="job.descriptions" class="subDetails">
+                <p *ngFor="let description of job.descriptions">{{description}}</p>
+            </ng-container>
+        </article>
+    </div>
+    <div class="clear"></div>
+</section>

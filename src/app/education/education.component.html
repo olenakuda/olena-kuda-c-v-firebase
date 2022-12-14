@@ -1,0 +1,16 @@
+<section>
+    <div class="sectionTitle">
+        <h1>{{'educationTitle' | translate}}</h1>
+    </div>
+    <div class="sectionContent">
+        <article *ngFor="let institution of educationalInstitutions">
+            <h2>{{institution.title}}</h2>
+            <h2 class="subDetails">{{institution.specialisation}}</h2>
+            <p class="subDetails">{{institution.years}}</p>
+            <ng-container *ngIf="institution.degreeDescriptions">
+                <p *ngFor="let description of institution.degreeDescriptions">{{description}}</p>
+            </ng-container>
+        </article>
+    </div>
+    <div class="clear"></div>
+</section>
