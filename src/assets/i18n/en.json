@@ -1,115 +1,137 @@
 {
-    "name": "Olena Kuda",
-    "jobTitle": "Java Developer",
-
-    "skillsTitle": "Key Skills",
-    "skills": [
-        "Java 11",
-        "Kotlin (basic)",
-        "TypeScript (basic)",
-        "CSS",
-        "HTML5",
-        "Spring Boot",
-        "Spring Data (JPA NoSQL)",
-        "Spring Web",
-        "Angular",
-        "Android (basic)",
-        "IntelliJ",
-        "Visual Stodio Code",
-        "GitHub",
-        "Docker (basic)",
-        "JSON",
-        "REST API",
-        "Lombok",
-        "Maven",
-        "TDD",
-        "JUnit",
-        "Mockito",
-        "Microservices architecture (basic)"
-    ],
-
-    "workExperienceTitle": "Work Experience",
-    "JOBS": [{
-            "employer": "Pensionsversicherungsanstalt",
-            "years": "September 2020 - now",
-            "title": "Software developer",
-            "descriptions": [
-                "Maintenance and supporting the existing system, including bug fixes and refactoring different modules",
-                "Design and implement new features",
-                "Planned and executed test to insure code changes meet requirements and specification"
-            ]
-        },
-        {
-            "employer": "Maternity Leave",
-            "years": "2017 - 2019",
-            "title": "",
-            "descriptions": []
-        },
-        {
-            "employer": "Hotel Kaiserin Elisabeth GmbH & Co. KG",
-            "years": "2014 - 2017",
-            "title": "Service stuff",
-            "descriptions": [
-                "Perform work that is routine and organized",
-                "Provide personalized service to all guests",
-                "Care of the bar, Warehousing",
-                "Merchandise managements"
-            ]
-        },
-        {
-            "employer": "Maternity Leave",
-            "years": "2009 - 2014",
-            "title": "Part time job",
-            "descriptions": ["Catering"]
-        },
-        {
-            "employer": "Charkiv LTD Investment Consulting Company `Proconsul`",
-            "years": "2007 - 2009",
-            "title": "Real estate market analyst",
-            "descriptions": [
-                "Collecting and analyzing statistic data of real estate market",
-                "Making analytical reports on real estate market segments monthly and quarterly",
-                "Monthly prices forecasts",
-                "Estimating dwelling real estate"
-            ]
-        },
-        {
-            "employer": "Charkiv organization `Union of young entrepreneurs`",
-            "years": "2006 - 2007",
-            "title": "Projektmanager",
-            "descriptions": [
-                "Seminars arrangement",
-                "Job searching and consulting services",
-                "Collaboration with promoters",
-                "Design projects directed to development of young people"
-            ]
-        }
-    ],
-
-    "educationTitle": "Education",
-    "educationalInstitutions": [{
-            "title": "Everyone codes, Vienna, AUT",
-            "years": "2019 - 2020",
-            "specialisation": "Programming: Java",
-            "degreeDescriptions": [
-                "Java 11, Linux, Git, GitHab, IntelliJ",
-                "Spring Framework"
-            ]
-        },
-        {
-            "title": "Charkiv National University of Economics",
-            "years": "2005 - 2006",
-            "specialisation": "Economic Cybernetics",
-            "degreeDescriptions": ["Master of Economic Cybernetics"]
-        },
-        {
-            "title": "Charkiv National University of Economics",
-            "years": "2001 - 2005",
-            "specialisation": "Economic Cybernetics",
-            "degreeDescriptions": ["Bachelor of Economic Cybernetics"]
-        }
-    ],
-
-    "hobbiesTitle": "Hobbies",
-    "hobbies": ["Jogging", "Board/Card games", "Cooking", "Traveling"]
+  "name": "Olena Kuda",
+  "jobTitle": "Java Developer",
+  "skillsTitle": "Key Skills",
+  "skills": [
+    "Java 8/11",
+    "Kotlin (basic)",
+    "TypeScript (basic)",
+    "CSS",
+    "HTML5",
+    "Spring Boot",
+    "Spring Data (JPA NoSQL)",
+    "Spring Web",
+    "Angular (basic)",
+    "Android (basic)",
+    "GitHub",
+    "Docker (basic)",
+    "JSON",
+    "REST API",
+    "Lombok",
+    "Maven",
+    "Gradle",
+    "TDD",
+    "JUnit",
+    "Mockito",
+    "IntelliJ",
+    "Visual Stodio Code",
+    "Jira",
+    "Kanban",
+    "Microservices architecture (basic)"
+  ],
+  "workExperienceTitle": "Work Experience",
+  "JOBS": [
+    {
+      "employer": "Stiwa AMS GmbH",
+      "years": "May 2022 - now",
+      "title": "Software developer",
+      "descriptions": [
+        "Development and enhancement of our software systems for automated series production",
+        "Conception, design, programming and testing of new products and features",
+        "Coaching and support of junior software developers"
+      ]
+    },
+    {
+      "employer": "Pensionsversicherungsanstalt",
+      "years": "September 2020 - May 2022",
+      "title": "Software developer",
+      "descriptions": [
+        "Maintenance and supporting the existing system, including bug fixes and refactoring different modules",
+        "Design and implement new features",
+        "Planned and executed test to insure code changes meet requirements and specification"
+      ]
+    },
+    {
+      "employer": "Maternity Leave",
+      "years": "2017 - 2019",
+      "title": "",
+      "descriptions": []
+    },
+    {
+      "employer": "Hotel Kaiserin Elisabeth GmbH & Co. KG",
+      "years": "2014 - 2017",
+      "title": "Service stuff",
+      "descriptions": [
+        "Perform work that is routine and organized",
+        "Provide personalized service to all guests",
+        "Care of the bar, Warehousing",
+        "Merchandise managements"
+      ]
+    },
+    {
+      "employer": "Maternity Leave",
+      "years": "2009 - 2014",
+      "title": "Part time job",
+      "descriptions": [
+        "Catering"
+      ]
+    },
+    {
+      "employer": "Charkiv LTD Investment Consulting Company `Proconsul`",
+      "years": "2007 - 2009",
+      "title": "Real estate market analyst",
+      "descriptions": [
+        "Collecting and analyzing statistic data of real estate market",
+        "Making analytical reports on real estate market segments monthly and quarterly",
+        "Monthly prices forecasts",
+        "Estimating dwelling real estate"
+      ]
+    },
+    {
+      "employer": "Charkiv organization `Union of young entrepreneurs`",
+      "years": "2006 - 2007",
+      "title": "Projektmanager",
+      "descriptions": [
+        "Seminars arrangement",
+        "Job searching and consulting services",
+        "Collaboration with promoters",
+        "Design projects directed to development of young people"
+      ]
+    }
+  ],
+  "educationTitle": "Education",
+  "educationalInstitutions": [
+    {
+      "title": "Everyone codes, Vienna, AUT",
+      "years": "2019 - 2020",
+      "specialisation": "Programming: Java",
+      "degreeDescriptions": [
+        "Java 11, Linux, Git, GitHab, IntelliJ",
+        "Spring Framework"
+      ]
+    },
+    {
+      "title": "Charkiv National University of Economics",
+      "years": "2005 - 2006",
+      "specialisation": "Economic Cybernetics",
+      "degreeDescriptions": [
+        "Master of Economic Cybernetics"
+      ]
+    },
+    {
+      "title": "Charkiv National University of Economics",
+      "years": "2001 - 2005",
+      "specialisation": "Economic Cybernetics",
+      "degreeDescriptions": [
+        "Bachelor of Economic Cybernetics"
+      ]
+    }
+  ],
+  "hobbiesTitle": "Hobbies",
+  "hobbies": [
+    "Jogging",
+    "Board/Card games",
+    "Cooking",
+    "Traveling"
+  ]
 }
